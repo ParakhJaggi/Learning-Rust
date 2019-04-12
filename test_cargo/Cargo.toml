@@ -1,0 +1,8 @@
+[package]
+name = "test_cargo"
+version = "0.1.0"
+authors = ["Parakh Jaggi <parakh_jaggi@baylor.edu>"]
+edition = "2018"
+
+[dependencies]
+
