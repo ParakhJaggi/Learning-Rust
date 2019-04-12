@@ -1,0 +1,8 @@
+[package]
+name = "Random-Number"
+version = "0.1.0"
+authors = ["Parakh Jaggi <parakh_jaggi@baylor.edu>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3.14"
